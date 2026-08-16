@@ -1,7 +1,7 @@
 import { DiscordSDK } from
     "https://esm.sh/@discord/embedded-app-sdk";
 
-const CLIENT_ID = "YOUR_APPLICATION_ID";
+const CLIENT_ID = "1538604399738355864";
 
 const discordSdk = new DiscordSDK(CLIENT_ID);
 
